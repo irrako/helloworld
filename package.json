@@ -1,0 +1,22 @@
+{
+  "name": "problema1",
+  "version": "1.0.0",
+  "description": "matriz de cadenas",
+  "main": "index.js",
+  "scripts": {
+    "test": "pro1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irrako/helloworld.git"
+  },
+  "author": "israel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irrako/helloworld/issues"
+  },
+  "homepage": "https://github.com/irrako/helloworld#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
